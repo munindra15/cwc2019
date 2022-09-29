@@ -1,0 +1,74 @@
+{
+  "teams": [
+    {
+      "team": "india",
+      "Wins": 7,
+      "Loss": 1,
+      "Draw": 0,
+      "No Result": 1
+    },
+    {
+      "team": "australia",
+      "Wins": 7,
+      "Loss": 2,
+      "Draw": 0,
+      "No Result": 0
+    },
+    {
+      "team": "england",
+      "Wins": 6,
+      "Loss": 3,
+      "Draw": 0,
+      "No Result": 0
+    },
+    {
+      "team": "newZealand",
+      "Wins": 5,
+      "Loss": 3,
+      "Draw": 0,
+      "No Result": 0
+    },
+    {
+      "team": "pakistan",
+      "Wins": 5,
+      "Loss": 3,
+      "Draw": 0,
+      "No Result": 1
+    },
+    {
+      "team": "sriLanka",
+      "Wins": 3,
+      "Loss": 4,
+      "Draw": 0,
+      "No Result": 2
+    },
+    {
+      "team": "southAfrica",
+      "Wins": 3,
+      "Loss": 5,
+      "Draw": 0,
+      "No Result": 1
+    },
+    {
+      "team": "bangladesh",
+      "Wins": 3,
+      "Loss": 5,
+      "Draw": 0,
+      "No Result": 1
+    },
+    {
+      "team": "westIndies",
+      "Wins": 1,
+      "Loss": 6,
+      "Draw": 0,
+      "No Result": 1
+    },
+    {
+      "team": "afghanistan",
+      "Wins": 0,
+      "Loss": 9,
+      "Draw": 0,
+      "No Result": 0
+    }
+  ]
+}
